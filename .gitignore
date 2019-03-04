@@ -1,0 +1,4 @@
+#This is a File where we mention which files the git has to ignore.
+
+
+*.class
